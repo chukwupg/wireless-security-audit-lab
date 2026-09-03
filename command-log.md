@@ -143,7 +143,7 @@ The capture was restricted to the authorized access point and its operating chan
 
 Packet capture started
 
-> Note the client mac address in the result which will be used for the next step
+> Note the client mac address (under station) in the result which will be used for the next step
 
 ### Evidence
 

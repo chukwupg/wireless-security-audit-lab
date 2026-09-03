@@ -4,10 +4,10 @@
 Penetration testing distribution used for the assessment.
 
 ## Aircrack-ng Suite
-- airmon-ng → monitor mode
-- airodump-ng → packet capture
-- aireplay-ng → deauthentication
-- aircrack-ng → password recovery
+- airmon-ng: to enable monitor mode
+- airodump-ng: for packet capture
+- aireplay-ng: for sending deauthentication packet
+- aircrack-ng: for password recovery
 
 ## Wireless Adapter
 Alfa AWUS036ACH  
