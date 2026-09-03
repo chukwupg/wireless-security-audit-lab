@@ -49,6 +49,8 @@ See [`tools-used.md`](tools-used.md)
 
 See [`methodology.md`](methodology.md)
 
+For commands and screenshots see: [`command-log`](command-log.md)
+
 ---
 
 ## Attack Workflow
